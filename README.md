@@ -1,6 +1,6 @@
 # Audio_Book
 Text to speech using py
 Install modules in terminal before running:
-pip install wheel
-pip insatll pyttsx3
-pip install PyPDF2
+1.pip install wheel.
+2.pip insatll pyttsx3.
+3.pip install PyPDF2.
