@@ -18,9 +18,3 @@ for num in range(startpage, pages):
     text = page.extractText()
     speaker.say(text)
     speaker.runAndWait()
-
-# Install: 
-# pip install wheel
-# pip install pyttsx3
-# pip install PyPDF2 
-# in terminal 
